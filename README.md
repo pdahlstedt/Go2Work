@@ -1,3 +1,10 @@
+# Petter
+## Comments
+## Day 1
+Created this project with npx create-react-app
+Added the app to git (azure devops)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
