@@ -32,7 +32,7 @@ class Menu extends React.Component {
   }
 
   handleLogin() {
-    console.log("Click");
+    console.log("Click me");
   }
 
   render() {
